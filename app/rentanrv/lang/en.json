@@ -1,0 +1,33 @@
+{
+  "RENTANRV": {
+    "SEARCH_FILTERS": {
+      "TITLE_SEARCH": "Search Filters",
+      "WHERE": "Where",
+      "PICK_UP_LOCATION": "Pick up location",
+      "CHOOSE_YOUR_DATES": "Choose Your Dates",
+      "GUESTS": "Guests",
+      "ANY": "- Any -",
+      "PRICE_PER_NIGHT": "Price per night",
+      "RENTAL_TYPE": "Rental type",
+      "RV_COTTAGE": "Rv Cottage",
+      "TRAVEL_TRAILER": "Travel Trailer",
+      "SUB_TRAVEL_TRAILER": "Travel Trailer",
+      "MOTORHOME": "Motorhome",
+      "TYPE_OF_RV": "Type of RV",
+      "FIFTH_WHEEL": "Fifth wheel",
+      "TENT_TRAILER": "Tent trailer",
+      "VINTAGE": "Vintage",
+      "HYBRID": "Hybrid",
+      "TOY_HAULER": "Toy hauler",
+      "CLASS_A": "Class A",
+      "CLASS_B": "Class B",
+      "CLASS_C": "Class C",
+      "CANT_FIND_RV": "Can't find an RV?",
+      "SEARCH_AS_MOVE_MAP": "Search as I move the map",
+      "NIGHT": "NIGHT"
+    },
+    "MESSAGE": {
+      "SEARCH_NOT_FOUND": "There are no results that match your criteria. Try expanding your search criteria."
+    }
+  }
+}

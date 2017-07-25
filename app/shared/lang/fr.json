@@ -1,0 +1,23 @@
+{
+  "COMMON": {
+    "RENTALTYPE": {
+      "RVCOTTAGE": "Chalet VR",
+      "TRAVELTRAILER": "Remorque",
+      "MOTORHOME": "Autocaravanes"
+    },
+    "RVTYPE": {
+      "FIFTHWHEEL": "Sellette",
+      "TENTTRAILER": "Tente-roulotte",
+      "TRAVELTRAILER": "Roulotte",
+      "VINTAGETRAILER": "Classique",
+      "HYBRID": "Hybride",
+      "TOYHAULER": "Roulotte cargo",
+      "CLASSA": "Classe A",
+      "CLASSB": "Classe B",
+      "CLASSC": "Classe C",
+      "VINTAGEMOTORHOME": "Classique",
+      "TRAILER": "Remorque",
+      "MOTORHOME": "Autocaravanes"
+    }
+  }
+}

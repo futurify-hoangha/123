@@ -1,0 +1,33 @@
+{
+  "RENTANRV": {
+    "SEARCH_FILTERS": {
+      "TITLE_SEARCH": "Filtres de recherche",
+      "WHERE": "Là que",
+      "PICK_UP_LOCATION": "Lieu de prise de possession",
+      "CHOOSE_YOUR_DATES": "Choisissez vos dates",
+      "GUESTS": "INVITÉS",
+      "ANY": "- Tout -",
+      "PRICE_PER_NIGHT": "PRIX PAR NUIT",
+      "RENTAL_TYPE": "TYPE DE LOCATION",
+      "RV_COTTAGE": "Chalet VR",
+      "TRAVEL_TRAILER": "Remorque",
+      "SUB_TRAVEL_TRAILER": "Roulotte",
+      "MOTORHOME": "Autocaravanes",
+      "TYPE_OF_RV": "Type of RV",
+      "FIFTH_WHEEL": "Sellette",
+      "TENT_TRAILER": "Tente-roulotte",
+      "VINTAGE": "Classique",
+      "HYBRID": "Hybride",
+      "TOY_HAULER": "Roulotte cargo",
+      "CLASS_A": "Classe A",
+      "CLASS_B": "Classe B",
+      "CLASS_C": "Classe C",
+      "CANT_FIND_RV": "Vous ne trouvez pas de VR?",
+      "SEARCH_AS_MOVE_MAP": "Rechercher en déplacement la carte",
+      "NIGHT": "SOIR"
+    },
+    "MESSAGE": {
+      "SEARCH_NOT_FOUND": "Aucun résultat ne correspond à vos critères. Essayez d'élargir vos critères de recherche."
+    }
+  }
+}

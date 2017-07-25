@@ -1,0 +1,23 @@
+{
+  "MY_BILLING_INFO": {
+    "PAGE_TITLE": "Informations de facturation Ma",
+    "UPDATE_MY_INFO": "Mettre à jour mes informations",
+    "Connect_with_Stripe": "Se connecter avec Stripe",
+    "Cant_connect_to_your_stripe_account": "Impossible de se connecter à votre bande de compte. S'il vous plaît se reconnecter à entrelacer compte",
+    "You_are_connecting_with_stripe_account_successfully": "Vous connectez avec un compte bande avec succès",
+    "You_dont_have_any_active_billing_info": "Vous n'avez pas au moment de la facturation d'information active. S'il vous plaît mettre à jour un.",
+    "You_already_have_an_active_billing_info_at_the_moment": "Vous avez déjà une info de facturation active au moment.",
+    "Name_on_card": "Nom sur la carte",
+    "Enter_the_name": "Entrez le nom tel qu'il apparaît sur la carte de crédit.",
+    "Card_number": "Numéro de carte",
+    "Expiration_date": "Date d'expiration",
+    "Security_code": "Code de sécurité",
+    "Postal_or_ZIP_code": "Code postal",
+    "Submit": "Soumettre",
+    "Cancel": "Annuler",
+    "Card_error": "Votre carte a été refusée",
+
+    "Stripe_Connect": "Stripe relier",
+    "Update_credit_card": "Mettre à jour la carte de crédit"
+  }
+}

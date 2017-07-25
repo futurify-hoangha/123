@@ -1,0 +1,35 @@
+{
+  "FOOTER": {
+    "LEARN": "En savoir plus",
+    "HOW_RVEZY_WORKS": "Comment fonctionne RVezy",
+    "LISTING_AN_RV": "Inscrivez un VR",
+    "RENTING_AN_RV": "Louez un RV",
+    "RENTER_FAQ": "FAQ du locataire",
+    "OWNER_FAQ": "FAQ du propriétaire",
+    "SERVICE_FEES": "Frais de service",
+
+    "HELPFUL_LINKS": "Liens utiles",
+    "OFFICIAL_CONTEST_RULES": "Règles officielles du concours",
+    "PRIVACY_POLICY": "Politique de confidentialité",
+    "TERMS_OF_SERVICE": "Conditions d'utilisation",
+    "CANCELLATION_POLICY": "Politique d'annulation",
+    "INSURANCE_POLICY": "Confiance et sécurité",
+    "FORMS": "Formulaires",
+    "HELP": "Aide",
+
+    "COMPANY": "Entreprise",
+    "HOMEPAGE": "Page d'accueil",
+    "ABOUT": "À propos",
+    "THE_TEAM": "L'équipe de RVezy",
+    "BLOG": "Blog",
+    "CONTACT": "Nous rejoindre",
+
+    "STAY_CONNECTED": "Rester connecté",
+    "I_LIKE_TO_LIST_AN_RV": "Je voudrais inscrire un VR",
+    "I_LIKE_TO_RENT_AN_RV": "Je voudrais louer un VR",
+    "ENTER_YOUR_EMAIL": "Entrez votre courriel",
+    "ENTER_YOUR_FIRST_NAME": "Entrez votre prénom",
+    "ENTER_YOUR_LAST_NAME": "Entrez votre nom de famille",
+    "SUBSCRIBE": "S'abonnez"
+  }
+}

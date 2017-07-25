@@ -1,0 +1,115 @@
+[
+  {
+    "Code": "AirConditioner",
+    "Name": "Air Conditioner"
+  },
+  {
+    "Code": "BackupCamera",
+    "Name": "Backup Camera"
+  },
+  {
+    "Code": "DiningTable",
+    "Name": "Dining Table"
+  },
+  {
+    "Code": "HandicapAccessible",
+    "Name": "Handicap Accessible"
+  },
+  {
+    "Code": "Inverter",
+    "Name": "Inverter"
+  },
+  {
+    "Code": "Microwave",
+    "Name": "Microwave"
+  },
+  {
+    "Code": "Radio",
+    "Name": "Radio"
+  },
+  {
+    "Code": "Solar",
+    "Name": "Solar"
+  },
+  {
+    "Code": "TowHitch",
+    "Name": "Tow Hitch"
+  },
+  {
+    "Code": "WiFi",
+    "Name": "WiFi"
+  },
+  {
+    "Code": "AudioInputs",
+    "Name": "Audio Inputs"
+  },
+  {
+    "Code": "CdPlayer",
+    "Name": "Cd Player"
+  },
+  {
+    "Code": "ExtraStorage",
+    "Name": "Extra Storage"
+  },
+
+  {
+    "Code": "Heater",
+    "Name": "Heater"
+  },
+  {
+    "Code": "KitchenSink",
+    "Name": "Kitchen Sink"
+  },
+  {
+    "Code": "OutsideShower",
+    "Name": "Outside Shower"
+  },
+  {
+    "Code": "Refrigerator",
+    "Name": "Refrigerator"
+  },
+  {
+    "Code": "StoveRange",
+    "Name": "Stove/Range"
+  },
+  {
+    "Code": "TVDVD",
+    "Name": "TV/DVD"
+  },
+  {
+    "Code": "Awning",
+    "Name": "Awning"
+  },
+  {
+    "Code": "CeilingFan",
+    "Name": "Ceiling Fan"
+  },
+  {
+    "Code": "Generator",
+    "Name": "Generator"
+  },
+  {
+    "Code": "InsideShower",
+    "Name": "Inside Shower"
+  },
+  {
+    "Code": "LevelingJacks",
+    "Name": "Leveling Jacks"
+  },
+  {
+    "Code": "Oven",
+    "Name": "Oven"
+  },
+  {
+    "Code": "Satellite",
+    "Name": "Satellite"
+  },
+  {
+    "Code": "Toilet",
+    "Name": "Toilet"
+  },
+  {
+    "Code": "WasherDryer",
+    "Name": "Washer/Dryer"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "PAYMENT": {
+    "TITLE": "Submit credit card information",
+    "PAYMENT_INFORMATION": "Payment Information",
+    "PROTECTION_LEVEL": "Protection Level",
+    "ROADSIDE_ASSISTANCE": "Roadside Assistance",
+    "YOU_ARE_ALMOST_DONE": "You're almost done!",
+    "ONCE_YOU_SUBMIT": "Once you submit your credit card information to us, we will process the required payment and use this as your authorization for subsquent required payments such as a final payment if only a deposit was received, and the security deposit 72 hours prior to the booking start date.",
+    "ALL_INFORMATION_REMAIN_CONFIDENTAL": "All information will remain confidential and encrypted in our system.",
+    "AGREE_CONDITION": "Agree to term and condition",
+    "AGREE_CONDITION_DETAIL": "I agree that to our terms and conditions which will stipulate that RVezy will charge their credit card for any damages and that RVezy take a pre authorization charge."
+  }
+}

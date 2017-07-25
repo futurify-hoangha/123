@@ -1,0 +1,38 @@
+[
+  {
+    "Code": "CampingChairsProvided",
+    "Name": "Camping chairs provided"
+  },
+  {
+    "Code": "GPSUnitAvailable",
+    "Name": "GPS Unit Available"
+  },
+  {
+    "Code": "PetFriendly",
+    "Name": "Pet friendly"
+  },
+  {
+    "Code": "DeliveryAvailable",
+    "Name": "Delivery available"
+  },
+  {
+    "Code": "LinensProvided",
+    "Name": "Linens Provided"
+  },
+  {
+    "Code": "SmokingAllowed",
+    "Name": "Smoking Allowed"
+  },
+  {
+    "Code": "FullWinterRentalAvailable",
+    "Name": "Full Winter Rental Available"
+  },
+  {
+    "Code": "OneWayRentals",
+    "Name": "One way rentals"
+  },
+  {
+    "Code": "FamilyKidFriendly",
+    "Name": "Family/kid friendly"
+  }
+]

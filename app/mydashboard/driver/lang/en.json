@@ -1,0 +1,61 @@
+{
+  "DRIVER": {
+    "DIALOG": {
+      "ADD_TITLE": "Add new driver",
+      "EDIT_TITLE": "Edit driver {{FullName}}",
+      "SAVE": "Save",
+      "RADIO_NO": "No",
+      "RADIO_YES": "Yes",
+
+      "QUESTION": {
+        "FULL_NAME": "Full name as it appears on your drivers license",
+        "DOB": "Date of birth",
+        "OLDER_26_YEARS": "Are you age 26yrs or older?",
+        "DRIVING_LICENSE_NUMBER": "Drivers license number",
+        "COUNTRY_OF_ISSUE": "Country of issue",
+        "PROVINCE_STATE": "Province/State of issue",
+        "CLASS_OF_LICENSE": "Class of license",
+        "DRIVER_LICENSE_8_YEARS": "Have you possessed an unrestricted full drivers license for 8 years or more?",
+        "FAULT_ACCIDENT_6_YEARS": "Have you had MORE than 2 at fault accidents in past 6 years?",
+        "MINOR_DRIVING_CONVICTION_3_YEARS": "Have you had MORE than 3 minor driving convictions in the past 3 years?",
+        "MINOR_DRIVING_CONVICTION_3_YEARS_DESCRIPTION": "HELP: Examples include speeding, red light, etc.",
+        "HAVE_INSURANCE_POLICY": "Do you have a personal automobile insurance policy?",
+        "INSURANCE_PROVIDER": "Who is your current insurance provider?",
+        "CRIMINAL_DRIVING_OFFENCE_3_YEARS": "Have you been convicted of a criminal code driving offense in the past 3 years?",
+        "NO_AUTOMOBILE_CANCELLATION_3_YEARS": "Has your personal automobile insurance been cancelled in the past 3 years?",
+        "CONFIRM": "I agree to inform RVezy",
+        "CONFIRM_DESCRIPTION": "If any changes occur to my license status prior to RV rental I agree to inform RVezy at hello@RVezy.com. Changes include claims, charges, or convictions on your driver's license."
+      },
+
+      "ERRORS": {
+        "CANNOT_ADD_NOW": "Cannot add new driver now. Please try later.",
+        "CANNOT_UPDATE_NOW": "Cannot update driver now. Please try later.",
+        "REQUIRED": "This field is required.",
+        "DOB_DATE": "Invalid date format."
+      }
+    },
+    "MANAGE": {
+      "TITLE": "MY DRIVERS",
+      "NO_DRIVERS_MSG": "No drivers found. You need to add a driver to your account.",
+      "CANNOT_LOAD_MSG": "Cannot load drivers now. Please reload page or try later.",
+      "DRIVER": "Driver",
+      "STATUS": "Status",
+      "EDIT": "Edit",
+      "DELETE": "Delete",
+      "DELETE_CONFIRM_MSG": "Do you want to delete this driver?",
+      "BUTTON": {
+        "ADD_DRIVER": "Add driver"
+      },
+
+      "ERRORS": {
+        "CANNOT_DELETE_NOW":  "Cannot delete driver now. Please try later."
+      }
+    },
+    "STATUS": {
+      "Approved": "Approved",
+      "InProcessByRVezy": "In process by RVezy",
+      "VerificationNotRequired": "Verification not required",
+      "NotApproved": "Not approved"
+    }
+  }
+}

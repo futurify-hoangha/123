@@ -1,0 +1,23 @@
+{
+  "MY_BILLING_INFO": {
+    "PAGE_TITLE": "My Billing Information",
+    "UPDATE_MY_INFO": "Update credit card info",
+    "Connect_with_Stripe": "Connect with Stripe",
+    "Cant_connect_to_your_stripe_account": "Can't connect to your stripe account. Please reconnect to stripe account",
+    "You_are_connecting_with_stripe_account_successfully": "You are connecting with stripe account successfully",
+    "You_dont_have_any_active_billing_info": "You don't have any active billing info at the moment. Please update one.",
+    "You_already_have_an_active_billing_info_at_the_moment": "You already have an active billing info at the moment.",
+    "Name_on_card": "Name on card",
+    "Enter_the_name": "Enter the name as it appears on the credit card.",
+    "Card_number": "Card number",
+    "Expiration_date": "Expiration date",
+    "Security_code": "Security code",
+    "Postal_or_ZIP_code": "Postal or ZIP code",
+    "Submit": "Submit",
+    "Cancel": "Cancel",
+    "Card_error": "Your card has been declined",
+
+    "Stripe_Connect": "Stripe connect",
+    "Update_credit_card":  "Update credit card"
+  }
+}

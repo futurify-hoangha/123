@@ -1,0 +1,23 @@
+{
+  "COMMON": {
+    "RENTALTYPE": {
+      "RVCOTTAGE": "RV Cottage",
+      "TRAVELTRAILER": "Travel Trailer",
+      "MOTORHOME": "Motorhome"
+    },
+    "RVTYPE": {
+      "FIFTHWHEEL": "Fifth Wheel",
+      "TENTTRAILER": "Tent Trailer",
+      "TRAVELTRAILER": "Travel Trailer",
+      "VINTAGETRAILER": "Vintage",
+      "HYBRID": "Hybrid",
+      "TOYHAULER": "Toy Hauler",
+      "CLASSA": "Class A",
+      "CLASSB": "Class B",
+      "CLASSC": "Class C",
+      "VINTAGEMOTORHOME": "Vintage",
+      "TRAILER": "Trailer",
+      "MOTORHOME": "Motorhome"
+    }
+  }
+}

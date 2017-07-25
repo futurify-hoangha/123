@@ -1,0 +1,22 @@
+{
+  "CONTACT": {
+    "HEADER": "Contact",
+    "SEND_MAIL_SUCCESS": "Send mail success!",
+    "SEND_MAIL_ERROR": "Send mail error!",
+    "EMAIL": "Email",
+    "PHONE": "Phone: 1-855-MYRVEZY",
+    "YOUR_NAME": "Your name ",
+    "PLACE_HOLDER_YOUR_NAME": "Email/Name",
+    "YOUR_NAME_ERROR_MESSAGE": "Your name is required.",
+    "YOUR_EMAIL": "Your e-mail address ",
+    "PLACE_HOLDER_YOUR_EMAIL": "Email adress",
+    "YOUR_MAIL_ERROR_MESSAGE": "Your e-mail address is required.",
+    "YOUR_MAIL_INVALID_MESSAGE": "You must enter a valid e-mail address.",
+    "SUBJECT": "Subject ",
+    "SUBJECT_ERROR_MESSAGE": "Subject is required.",
+    "MESSAGE": "Message ",
+    "MESSAGE_ERROR": "Message is required.",
+    "SEND_YOURSELF_A_COPY": "Send yourself a copy.",
+    "SEND_MESSAGE": "Send message"
+  }
+}

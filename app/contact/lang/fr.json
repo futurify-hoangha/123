@@ -1,0 +1,22 @@
+{
+  "CONTACT": {
+    "HEADER": "NOUS REJOINDRE",
+    "SEND_MAIL_SUCCESS": "Send mail success!",
+    "SEND_MAIL_ERROR": "Send mail error!",
+    "EMAIL": "Courriel",
+    "PHONE": "Numéro de téléphone: 1-855-MYRVEZY",
+    "YOUR_NAME": "Votre nom",
+    "PLACE_HOLDER_YOUR_NAME": "Email/Nom",
+    "YOUR_NAME_ERROR_MESSAGE": "Your name is required.",
+    "YOUR_EMAIL": "Votre adresse de courriel",
+    "PLACE_HOLDER_YOUR_EMAIL": "Email adress",
+    "YOUR_MAIL_ERROR_MESSAGE": "Your e-mail address is required.",
+    "YOUR_MAIL_INVALID_MESSAGE": "You must enter a valid e-mail address.",
+    "SUBJECT": "Sujet ",
+    "SUBJECT_ERROR_MESSAGE": "Subject is required.",
+    "MESSAGE": "Message",
+    "MESSAGE_ERROR": "Message is required.",
+    "SEND_YOURSELF_A_COPY": "Send yourself a copy.",
+    "SEND_MESSAGE": "Envoyez le message"
+  }
+}

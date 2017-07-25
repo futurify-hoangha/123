@@ -1,0 +1,213 @@
+{
+  "ADMIN": {
+    "HEADER": {
+      "PJ_NAME": "RVEZY ADMIN",
+      "LOGOUT": "Logout",
+      "LINKS": {
+        "DASHBOARD": "Dashboard",
+        "USERS": "Users",
+        "ROLES": "Roles",
+        "RVS": "RVs",
+        "BOOKINGS": "Bookings",
+        "HOME": "Homepage",
+        "MY_ACCOUNT": "My account",
+        "CMS": "Manage pages content",
+        "REPORTS": "Reports",
+        "FINANCE": "Finance"
+      }
+    },
+
+    "USERS": {
+      "PAGE_TITLE": "Manage users",
+
+      "LABEL": {
+        "ID": "Id",
+        "AVATAR": "Avatar",
+        "FULL_NAME": "Full name",
+        "EMAIL": "Email",
+        "PHONE_NUMBER": "Phone number",
+        "OWNED_RVS": "Owned RVs",
+        "ADD_USER": "Add new user",
+        "EDIT_USER": "Edit user",
+        "DEACTIVE_USER": "Deactive user",
+        "ACTIVE_USER": "Active user",
+        "SEARCH_BTN": "Search",
+        "KEYWORD_PLACEHOLDER": "keyword",
+        "EDIT_USER_ROLE": "Assign roles for user",
+        "ROLES": "Roles",
+        "STATUS": "Status"
+      },
+
+      "STATUS": {
+        "Active": "Active",
+        "Deactive": "Deactive",
+        "Renew": "Need reset password"
+      },
+
+      "MESSAGES": {
+        "NO_USERS_FOUND": "No users found",
+        "DEACTIVE_USER_CONFIRM_MSG": "Do you want to deactive this user?",
+        "ACTIVE_USER_CONFIRM_MSG": "Do you want to active this user?"
+      },
+
+      "ERRORS": {
+        "SEARCH_FAILED": "Cannot fetch any users. Please try again",
+        "CANNOT_DEACTIVE_USER_NOW": "Cannot deactive user now. Please try later",
+        "CANNOT_ACTIVE_USER_NOW": "Cannot active user now. Please try later"
+      },
+
+      "DIALOG": {
+        "ADD_TITLE": "Add new user",
+        "EDIT_TITLE": "Edit user",
+
+        "FIRST_NAME": "First name",
+        "LAST_NAME": "Last name",
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "PHONE_NUMBER": "Phone number",
+        "BIRTHDAY": "Birthday",
+
+        "SAVE": "Save",
+
+        "ERRORS": {
+          "CANNOT_ADD_NOW": "Cannot add new user now. Please try later",
+          "CANNOT_UPDATE_NOW": "Cannot update user now. Please try later",
+          "EMAIL_NOT_AVAILABLE": "Provided email has already been used by another user",
+          "PASSWORD_MIN_LENGTH": "Password must have at least 6 characters"
+        }
+      },
+
+      "EDIT_ROLE": {
+        "TITLE": "Assign role for user #{{id}}",
+        "CLOSE": "Close",
+
+        "ERRORS": {
+
+          "CANNOT_SET_ROLE_NOW": "Cannot set role for user now. Please try later",
+          "CANNOT_REMOVE_ROLE_NOW": "Cannot remove role of user now. Please try later"
+
+        }
+      }
+
+    },
+
+    "ROLES": {
+      "PAGE_TITLE": "Manage roles",
+
+      "LABEL": {
+        "ID": "Id",
+        "ROLE_TITLE": "Role title",
+        "ADD_ROLE": "Add new role",
+        "EDIT_ROLE": "Edit role",
+        "DELETE_ROLE": "Delete role",
+        "ASSIGN_PERMISSIONS": "Assign permissions",
+
+        "ROLE_PERMISSIONS": "Permissions assignment",
+
+        "SELECT_ALL": "Select all",
+        "DESELECT_ALL": "Deselect all"
+      },
+
+      "MESSAGES": {
+        "NO_ROLES_FOUND": "No roles found",
+        "DELETE_ROLE_CONFIRM_MSG": "Do you want to delete this role?",
+        "SELECT_ROLE_TO_ASSIGN_PERMISSIONS": "Select a role to assign permissions"
+      },
+
+      "ERRORS": {
+        "GET_FAILED": "Cannot fetch any roles. Please try again",
+        "CANNOT_DELETE_ROLE_NOW": "Cannot delete role now. Please try later"
+      },
+
+      "DIALOG": {
+        "ADD_TITLE": "Add new role",
+        "EDIT_TITLE": "Edit role",
+
+        "ROLE_TITLE": "Role title",
+
+        "SAVE": "Save",
+
+        "ERRORS": {
+          "CANNOT_ADD_NOW": "Cannot add new role now. Please try later",
+          "CANNOT_UPDATE_NOW": "Cannot update role now. Please try later"
+        }
+
+      }
+    },
+
+    "BOOKINGS": {
+      "PAGE_TITLE": "Manage bookings",
+
+      "LABEL": {
+        "ID": "Id",
+        "OWNER": "Owner",
+        "RENTER": "Renter",
+        "RV": "RV",
+        "PERIOD": "Period",
+        "VIEW_DETAILS": "Details",
+
+        "SEARCH_BTN": "Search",
+        "ID_SEARCH_PLACEHOLDER": "#Id",
+        "OWNER_SEARCH_PLACEHOLDER": "#Id owner",
+        "RENTER_SEARCH_PLACEHOLDER": "#Id renter",
+        "ANY_STATE": "Any state",
+        "STATUS": "Status",
+
+        "FROM": "From",
+        "TO": "to"
+      },
+
+      "MESSAGES": {
+        "NO_BOOKINGS_FOUND": "No bookings found"
+      },
+
+      "ERRORS": {
+        "SEARCH_FAILED": "Cannot fetch any bookings. Please try again"
+      }
+
+    },
+
+    "USERS_REPORT": {
+      "TITLE": "Users report",
+      "NUMBER_OF_RVS": "Number of RVs",
+      "RATING": "Rating",
+      "NUMBER_OF_BOOKINGS": "Bookings",
+      "COMPLETED_BOOKINGS": "Completed bookings",
+      "NUMBER_OF_RENTALS": "Rentals",
+      "COMPLETED_RENTALS": "Completed rentals",
+
+      "NUMBER_OF_USERS": "Number of users",
+      "TOTAL": "Total users",
+      "USERS_LISTED_RV": "Listed an RV",
+      "USERS_RENTED": "Rented an RV",
+      "USERS_BOOKED": "Booked an RV",
+      "USERS_COMPLETED_RENTAL": "Completed a rental",
+      "USERS_COMPLETED_BOOKING": "Completed a booking",
+      "USER_DO_NOT_HAVE_ANY": "Don't have any resources",
+
+      "RESOURCES_NOTE": "Resources are RVs, completed bookings, rentals",
+
+      "MESSAGES": {
+        "NO_USERS_FOUND": "No users found"
+      },
+
+      "ERRORS": {
+        "SUMMARIZE_FAILED": "Cannot summarize the users report now. Please try later."
+      }
+    },
+
+    "RVS_REPORT": {
+      "TITLE": "RVs report"
+    },
+
+    "FINANCE_REPORT": {
+      "TITLE": "Fiannce report"
+    },
+
+    "ERRORS": {
+      "REQUIRED": "This field is required",
+      "EMAIL": "Invalid email format",
+      "DATE": "Invalid date format"
+    }
+  }
+}
